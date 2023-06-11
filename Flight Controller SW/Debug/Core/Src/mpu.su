@@ -1,0 +1,9 @@
+../Core/Src/mpu.c:28:17:MPU6050_initialize	24	static
+../Core/Src/mpu.c:46:17:MPU6050_set_gyro_range	24	static
+../Core/Src/mpu.c:67:17:MPU6050_set_acc_range	24	static
+../Core/Src/mpu.c:88:17:MPU6050_test_sensor	16	static
+../Core/Src/mpu.c:96:9:MPU6050_read_id	16	static
+../Core/Src/mpu.c:103:17:MPU6050_set_sleep_mode	24	static
+../Core/Src/mpu.c:122:17:MPU6050_read_data	32	static
+../Core/Src/mpu.c:151:6:CalcOffSet	56	static
+../Core/Src/mpu.c:230:6:mpu_Update	48	static

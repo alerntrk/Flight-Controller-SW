@@ -1,0 +1,5 @@
+../Core/Src/receiver.c:19:6:mapAngleP	4	static
+../Core/Src/receiver.c:24:6:mapAngleR	4	static
+../Core/Src/receiver.c:29:6:mapThrottle	4	static
+../Core/Src/receiver.c:34:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/receiver.c:136:6:Receiver_Init	8	static

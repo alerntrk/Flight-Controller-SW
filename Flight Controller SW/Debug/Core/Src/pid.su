@@ -1,0 +1,8 @@
+../Core/Src/pid.c:31:8:constrain	32	static
+../Core/Src/pid.c:37:8:max	24	static
+../Core/Src/pid.c:50:8:getControlSignalRoll	48	static
+../Core/Src/pid.c:61:8:getControlSignalPitch	48	static
+../Core/Src/pid.c:74:7:calculateMotorPowers	40	static
+../Core/Src/pid.c:134:6:reduceMotorPowers	32	static
+../Core/Src/pid.c:158:6:resetPidVariables	4	static
+../Core/Src/pid.c:167:8:fix360degrees	16	static
